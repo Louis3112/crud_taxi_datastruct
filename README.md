@@ -1,11 +1,12 @@
 # :bangbang: **Data Structure Project for 2nd Semester**  :bangbang:
 
 ## :taxi: **crud_taxi_datastruct** :taxi: 
-My project for Data Structure 2nd Semester.
+My project for Data Structure 2nd Semester. The project is a simple CRUD application to manage data drivers, 
+manage order queues, and cars on garage.
 
 The project implements various of data structure concepts, such as :
 1. Linked list (for access data driver/*supir*)
-2. Queue (for order queuing)
+2. Queue (for order queues)
 3. Stack (for access data car)                                    
 
 The project is developed using Functional programming, C++ language, runs on CLI, and requires only a minimal set of library to use (doesn't require installing any library from outside)
