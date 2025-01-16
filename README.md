@@ -9,7 +9,8 @@ The project implements various of data structure concepts, such as :
 2. Queue (for order queues)
 3. Stack (for access data car)                                    
 
-The project is developed using Functional programming, C++ language, runs on CLI, and requires only a minimal set of library to use (doesn't require installing any library from outside)
+The project is developed using Functional programming, C++ language, runs on CLI, and requires only a minimal set of library to use (doesn't require installing any library from outside).
+
 This is a simple project so don't expect anything from it
 
 ## :arrow_forward: **Installation and Usage** 
